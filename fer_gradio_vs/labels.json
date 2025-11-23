@@ -1,0 +1,21 @@
+{
+  "affectnet_7": [
+    "Angry",
+    "Disgust",
+    "Fear",
+    "Happy",
+    "Sad",
+    "Surprise",
+    "Neutral"
+  ],
+  "affectnet_8": [
+    "Neutral",
+    "Happy",
+    "Sad",
+    "Surprise",
+    "Fear",
+    "Anger",
+    "Disgust",
+    "Contempt"
+  ]
+}

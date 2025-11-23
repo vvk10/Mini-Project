@@ -1,0 +1,6 @@
+tensorflow
+mtcnn
+opencv-python
+gradio
+numpy
+python-dotenv
